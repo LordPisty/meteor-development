@@ -9,5 +9,5 @@ Exercises for the [Meteor.js development](https://www.coursera.org/learn/meteor-
 * `meteor`
  
 ### week 2
-* `meteor reset //clean data` 
+* `meteor reset` (clean all data)
 
