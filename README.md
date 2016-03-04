@@ -7,3 +7,7 @@ Exercises for the [Meteor.js development](https://www.coursera.org/learn/meteor-
 * `meteor create image_share`
 * `cd image_share`
 * `meteor`
+ 
+### week 2
+* `meteor reset //clean data` 
+
